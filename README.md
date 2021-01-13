@@ -10,4 +10,18 @@ First Repo
 
 'git commit' commit/save files to the repository. Ex: git commit -m "Message" <FILES>
   
-'git status' check the status of the repository9
+'git status' check the status of the repository
+
+## Basic Bash command
+
+'pwd' print current working directory
+
+'cd' change directory
+
+'ls' list content
+
+'ls -a' list all files
+
+'mkdir' create directory
+
+'touch' create a dummy file placeholder
